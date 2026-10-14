@@ -22,7 +22,7 @@
   /// 网站描述。用于 SEO 搜索引擎摘要和社交媒体分享预览。（可选）
   description: "None",
   /// 站点的根 URL (例如 "https://example.com")。用于生成 Canonical URL 元数据。（可选）
-  website-url: "https://catalpa-726.github.io"",
+  website-url: "https://catalpa-726.github.io",
   /// 网站的默认语言，例如 "zh" 或 "en"，默认为 "zh"。
   lang: "zh",
   /// 订阅源配置 (字符串数组)，指定包含在 RSS 订阅源中的内容目录列表。（可选）
