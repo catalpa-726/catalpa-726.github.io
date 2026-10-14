@@ -30,12 +30,12 @@
   feed-dir: ("/Blog/", "/Study/"),
   
   /// 自定义页眉元素列表 (content 数组)。显示在页面顶部。
-  header-elements: (
-    [你好 Ciallo～(∠・ω< )⌒☆],
-  ),
+  /// header-elements: (
+  ///   [你好 Ciallo～(∠・ω< )⌒☆],
+  /// ),
   /// 自定义页脚元素列表 (content 数组)，显示在页面底部。
   footer-elements: (
-    "© 2026 Yousa-Mirage",
+    "© 2026 catalpa",
     [Powered by #link("https://github.com/Yousa-Mirage/Tufted-Blog-Template")[Tufted-Blog-Template]],
   ),
 )
